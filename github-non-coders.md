@@ -57,5 +57,5 @@ and pushes up changes on your clone to GitHub.
 
 
 1. If not already open, Open up your GitHub client.
-2  Select your-repo
+2.Select your-repo
 3. Click "Sync" in the upper right hand corner.
