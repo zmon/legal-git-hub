@@ -1,3 +1,11 @@
+# Participating on a existing projects
+
+Follow the project, you will get emails when 
+issues are added/changed as well as code.
+
+It would be a good idea to follow the other projects 
+so we can all collaborate.
+
 # Why put your project on GitHub
 The primary reason is to make it visible for potential:
 
@@ -8,27 +16,30 @@ The primary reason is to make it visible for potential:
 
 Communications is another reason:
 
-You want to communicate to your team as well as
-non team members will want to communicate to you.
+All sorts of people will visit your GitHub repo besides 
+your team members.
 
-* If you follow the project you will be alerted
-  when issues are added and change.  
-  When code is changed.
-* Discussions in issues or slack
-  can be summarized in the Wiki
-* You can create a simple web site for your app, 
+What will they see when they visit your GitHub repo:
+
+* Title
+* Short Description
+* URL to something
+* Filelist
+* Readme
+
+Three other things
+
+* Issues An example of a [non team member question](https://github.com/codeforkansascity/Neighborhood-Dashboard/issues/5#issuecomment-111887393).
+* Wiki discussions in issues or slack
+  can be summarized in the Wiki, and the Wiki can 
+  be your projects documentation.
+* gh-pages, you can create a simple web site for your app, 
   or host the app itself.
-   
-An example of a [non team member question](https://github.com/codeforkansascity/Neighborhood-Dashboard/issues/5#issuecomment-111887393).
 
 
+# How do I add a file to a repo
 
-# Participating on a existing projects
-
-
-# Working on an existing project with GitHub client
-
-### Create a clone on your computer
+### Create a clone of the repository on your computer
 
 1. Open up your GitHub client
 1. File -> Clone Repository
