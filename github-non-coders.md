@@ -9,9 +9,12 @@ so we can all collaborate.
 # Why put your project on GitHub
 The primary reason is to make it visible for potential:
 
-*  developers
+*  [other developers](http://www.codeforamerica.org/geeks/civicissues)
+*  [our members](http://codeforkc.org)
+*  your team
 *  stakeholders
 *  users
+*  google searches
 *  media
 
 Communications is another reason:
