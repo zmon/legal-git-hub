@@ -1,3 +1,8 @@
+# What is Slack
+
+Slack is like being at the water cooler and talking with your
+team members.
+
 # Participating on a existing projects
 
 Follow the project, you will get emails when 
